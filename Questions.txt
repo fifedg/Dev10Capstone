@@ -1,61 +1,16 @@
+
 Exploratory Questions:
 
 
-General:
-* How many firms are there for different types of insurance?
-* Which types of insurance accrue the most cost/profit?
-* What are the prices of insurance premiums over the years by state?
-* Which are the most profitable firms?
+•	Which states have the highest/lowest insurance premiums?
 
-Healthcare:
-* Compare statistics between employer provided insurance, vs direct pay?
-* Compare between private vs. public health insurance.
-* What conditions are common to people who are well insured vs. under or uninsured, if any?
-* What factors affect insurance premiums (Machine learning would be good here!)
-* How does having a disability affect health insurance premiums?
-* Are the healthiest states/areas also the best insured?
-
-Housing:
-* Percent of home occupied by renters vs. owners over the years/by state
-* Which caused the greatest homeowner’s insurance loss? (ie theft, fire, etc)
-* Any prominent spikes that occurred after a significant event? (ie Hurricane Katrina)
-* Which areas of housing seem to be growing and which are declining (area, rent vs buy, type of home etc.)
+•	What are the traits of these states? What is the average income? What is the population? What are the demographics of people in these states? Do these relate at all to insurance premiums? 
 
 
+•	Type of Vehicles? Causes of Crashes weather? Types of crashes
 
+•	Major Causes for Crashes? What factors affect the cost of a claim? Which are the most influential? Can we accurately predict the price of a car insurance claim?
 
+•	What factors are common among rejected claims? Can we accurately predict whether a claim will be rejected?
 
-
-
-
-
-
-
-
-Data Sources:
-
-Census-American Housing Survey
-https://www.census.gov/programs-surveys/ahs/data/interactive/ahstablecreator.html?s_areas=00000&s_year=2019&s_tablename=TABLE1&s_bygroup1=1&s_bygroup2=1&s_filtergroup1=1&s_filtergroup2=1
-https://www.census.gov/programs-surveys/ahs.html
-
-Manufactured Housing Survey
-https://www.census.gov/data/datasets/2019/econ/mhs/puf.html 
-
-Finance and Insurance: Administrative Expenses and Losses Incurred for Property an
-d Casualty Insurance Carriers for the U.S.: 2017
-https://data.census.gov/cedsci/table?q=insurance&g=0100000US&tid=ECNADBNPROP2017.EC1752ADBNPROP&vintage=2017&layer=state&cid=DP05_0001E
-
-Insurance Information Institute-not Census data but has good information in easy to understand tables
-https://www.iii.org/research-data
-
-Global insurance stats:
-https://stats.oecd.org/Index.aspx?DatasetCode=INSIND
-
-NCHS Health Insurance Info:
-https://www.cdc.gov/nchs/nhis/health_insurance/hi_statistics.htm
-https://www.cdc.gov/nchs/fastats/health-insurance.htm
-https://www.cdc.gov/nchs/data_access/ftp_data.htm
-
-		Dustin, Abby, Radha
-		06/30/2021
 
