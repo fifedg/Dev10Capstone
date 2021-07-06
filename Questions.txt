@@ -1,16 +1,13 @@
-
 Exploratory Questions:
 
+• Which states have the highest/lowest insurance premiums?
 
-•	Which states have the highest/lowest insurance premiums?
+• What are the traits of these states? What is the average income? What is the population? What are the demographics of people in these states? Do these relate at all to insurance premiums? 
 
-•	What are the traits of these states? What is the average income? What is the population? What are the demographics of people in these states? Do these relate at all to insurance premiums? 
+• Which states experience the most car crashes?
 
+• What factors affect crash occurrence and severity? What are the major causes for crashes? Type of Vehicles? Weather? Area?
 
-•	Type of Vehicles? Causes of Crashes weather? Types of crashes
+• What factors affect the cost of a claim? Which are the most influential? Can we accurately predict the price of a car insurance claim?
 
-•	Major Causes for Crashes? What factors affect the cost of a claim? Which are the most influential? Can we accurately predict the price of a car insurance claim?
-
-•	What factors are common among rejected claims? Can we accurately predict whether a claim will be rejected?
-
-
+• What factors are common among rejected claims? Can we accurately predict whether a claim will be rejected?
