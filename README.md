@@ -10,6 +10,6 @@ All of our napkin drawings can be found within the NapkinDrawings folder, and ar
 
 Our visualizations are available in image form within the Visualizations folder.
 
-Soon, you will be able to find our presentation file, as well as other presentation-related documents in a Presentation folder.
+The powerpoint used for our presentation, in PDF and Microsoft PowerPoint format, is available in the Presentation folder. In addition, the .pbix file for the report we created is available in this file. Note: We are using a Power BI Web version of our report and a Google Slides version of the power point in our presentation, so there may be minor differences in these uploaded files.
 
 Our Project Managment Plan was created on Trello, and we maintain it there. The link to the Trello board is here: https://trello.com/b/iJybdsKV/project-management-plan
